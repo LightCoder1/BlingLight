@@ -6,6 +6,12 @@ My name is Alan Bigeev, I'm 13 years old, I love to learn programming. I live in
 
 ![image](https://user-images.githubusercontent.com/110280736/224549194-6567779b-7d95-4995-a6c5-d45fbbfc1255.png)
 ![image](https://user-images.githubusercontent.com/110280736/224549242-f894a4e9-e2f1-4fe5-b7e7-96ebf7998edc.png)
+![image](https://user-images.githubusercontent.com/110280736/224549375-6c62a17a-4f87-4033-a25d-a34df75e327a.png)
+![image](https://user-images.githubusercontent.com/110280736/224549383-d6d680ad-a104-4907-aafd-ee0b6cd98973.png)
+![image](https://user-images.githubusercontent.com/110280736/224549398-09f139c9-6731-4d89-8847-28a46d9f1cde.png)
+![image](https://user-images.githubusercontent.com/110280736/224549459-af01a75a-9bf2-4535-85df-4b04c05f154a.png)
+![image](https://user-images.githubusercontent.com/110280736/224549496-c4c27731-0910-467d-a952-0b296bb1165a.png)
+
 
 
 
