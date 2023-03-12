@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Alan Bigeev, I'm 13 years old, I love to learn programming. I live in Russia, the city of Belgorod
+
+
+
+
 <!--
 **BlingLight/BlingLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
