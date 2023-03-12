@@ -2,7 +2,9 @@
 
 My name is Alan Bigeev, I'm 13 years old, I love to learn programming. I live in Russia, the city of Belgorod
 
-🔧 Technologies & Tools
+
+
+# 🔧 Technologies & Tools
 
 ![image](https://user-images.githubusercontent.com/110280736/224549194-6567779b-7d95-4995-a6c5-d45fbbfc1255.png)
 ![image](https://user-images.githubusercontent.com/110280736/224549242-f894a4e9-e2f1-4fe5-b7e7-96ebf7998edc.png)
@@ -12,6 +14,8 @@ My name is Alan Bigeev, I'm 13 years old, I love to learn programming. I live in
 ![image](https://user-images.githubusercontent.com/110280736/224549459-af01a75a-9bf2-4535-85df-4b04c05f154a.png)
 ![image](https://user-images.githubusercontent.com/110280736/224549496-c4c27731-0910-467d-a952-0b296bb1165a.png)
 ![image](https://user-images.githubusercontent.com/110280736/224549536-fa600b27-6a72-466b-8019-49522fdfac5b.png)
+
+
 
 
 
