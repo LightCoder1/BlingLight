@@ -31,7 +31,7 @@ My name is Alan Bigeev, I'm 13 years old, I love to learn programming. I live in
 
 
 ## ❤️ Donate
-[DonationAlerts](https://www.donationalerts.com/r/donatformymoney)
+[DonationAlerts](https://www.donationalerts.com/r/supportmeplease)
 
 
 
