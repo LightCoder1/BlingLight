@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alan Bigeev, I'm 13 years old, I love to learn programming. I live in Russia, the city of Belgorod
+My name is Alan Bigeev, I'm 15 years old, I love to learn programming. I live in Russia, the city of Belgorod
 
  
 
