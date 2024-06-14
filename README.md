@@ -28,7 +28,7 @@ My name is Alan Bigeev, I'm 15 years old, I love to learn programming. I live in
 
 
 ## 📞 Contact me
-[Telegram](https://t.me/MeowGavGavgav)
+[Telegram](https://t.me/L1ghtYT)
 
 
 
