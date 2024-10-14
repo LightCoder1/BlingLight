@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alan, my NickName is Light, im
+My Name is Alan, my NickName is Light, my main programming language is python
 
  
 
